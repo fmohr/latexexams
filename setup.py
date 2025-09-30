@@ -21,8 +21,6 @@ setup(
     version='0.0.1',
 
     description='Utilities for building PDF exam files with dynamic latex generated from Python',
-    long_description=long_description,
-    long_description_content_type='text/markdown',
 
     # The project's main homepage.
     url='https://github.com/fmohr/latexexams',
